@@ -15,4 +15,4 @@ FIND THE CARROT AND GET OUT /////////////////////////////////
 
 Have fun!
 
-![Alt text](/path/to/img.jpg "epikong")
+![Alt text](epikong.jpg "epikong")
