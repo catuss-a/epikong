@@ -15,4 +15,4 @@ FIND THE CARROT AND GET OUT /////////////////////////////////
 
 Have fun!
 
-![Alt text](epikong.jpg "epikong")
+![=> SCREENSHOT <=](epikong.jpg "epikong")
